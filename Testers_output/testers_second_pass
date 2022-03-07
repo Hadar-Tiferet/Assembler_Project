@@ -1,0 +1,152 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:30 ERROR:
+Symbol:Q can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:33 ERROR:
+Symbol:Q can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:36 ERROR:
+Symbol:X can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:39 ERROR:
+Symbol:Y can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:48 ERROR:
+Symbol:Q appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:51 ERROR:
+Symbol:X appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:54 ERROR:
+Symbol:Y appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:57 ERROR:
+DATA1 is defined as both an entry and an extern label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:60 ERROR:
+Symbol:Z can not be used as a relative addressing argument while defined as data
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as contains 9 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:27 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:30 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:33 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:39 ERROR:
+%start is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:42 ERROR:
+Argument does not contain a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:45 ERROR:
+42 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:48 ERROR:
+5xy is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:51 ERROR:
+Line contains invalid input at the end: %start
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as contains 8 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:4 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:5 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:6 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:7 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:8 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:9 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:10 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:11 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:12 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:13 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:14 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:15 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:16 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:17 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:18 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:19 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:20 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:21 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:22 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:23 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:24 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:25 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:26 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:29 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:30 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:31 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:32 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:33 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:34 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:35 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:36 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:37 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:38 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:39 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:40 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:41 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:42 ERROR:
+Symbol:notThere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:43 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:44 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:45 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:46 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:47 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:48 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:49 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:50 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:51 ERROR:
+Symbol:notHere can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:55 ERROR:
+HENSHIN is defined as both an entry and an extern label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:57 ERROR:
+KAMEHAMEHA is defined as both an entry and an extern label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:60 ERROR:
+HOPA is defined as both an entry and an extern label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:64 ERROR:
+Symbol:FRIEND can not be used as a relative addressing argument while defined as extern
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:67 ERROR:
+Symbol:DJ can not be used as a relative addressing argument while defined as data
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as LINE:69 ERROR:
+Symbol:ledZeppelin can not be used as a relative addressing argument while defined as data
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/errors2.as contains 52 errors.
+
+
+Assembler operation report:
+3 files passed as argument.
+0 files successfully converted.
+3 files contain errors.

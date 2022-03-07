@@ -1,0 +1,592 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:7 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:10 ERROR:
+1label is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:12 ERROR:
+Missing a blank character after label:label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:14 ERROR:
+thislabelistoolongandshouldnotpass is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:16 ERROR:
+labe is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:18 ERROR:
+la@bel is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:20 ERROR:
+Start is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:22 ERROR:
+ is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:26 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:28 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:30 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:32 ERROR:
+Line contains invalid input at the end: 30
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:34 ERROR:
+string is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:36 ERROR:
+Line contains invalid input at the end: not EOF
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:38 ERROR:
+DATA is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:40 ERROR:
+Number -2899 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:42 ERROR:
+Data is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:44 ERROR:
+Missing a directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:46 ERROR:
+data is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:48 ERROR:
+word50 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:50 ERROR:
+50word is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:54 ERROR:
+Argument: is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:56 ERROR:
+Argument:"no closure is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:58 ERROR:
+Line contains invalid input at the end: extra content 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:60 ERROR:
+string"no is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:62 ERROR:
+Argument is not a valid string, contains a non printable character:	
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:64 ERROR:
+Argument:" is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:66 ERROR:
+Argument:no quotation marks is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:70 ERROR:
+thislabelistoolongandshouldnotpass is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:72 ERROR:
+externnospace is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:74 ERROR:
+notalabe!l is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:76 ERROR:
+label: is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:78 ERROR:
+Start is already defined in the file and can not be redefined as external
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:80 ERROR:
+Line contains invalid input at the end: content
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:82 ERROR:
+Missing a label as an argument after extern directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:86 ERROR:
+Dec is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:88 ERROR:
+DEC is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:90 ERROR:
+addto is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:92 ERROR:
+super is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:94 ERROR:
+stop is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:98 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:100 ERROR:
+5 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:102 ERROR:
+Line contains invalid input at the end: x
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:104 ERROR:
+Argument uses an invalid destination addressing type for command:jsr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:106 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:108 ERROR:
+Line contains invalid input at the end: x
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:110 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:112 ERROR:
+-1nonum85 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:114 ERROR:
+Argument:-185 uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:116 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:118 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as contains 51 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/wrong_path_tester.as Error:
+File was not found.
+Note: when passing files from another directory, please make sure to include the full path of the file
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:5 ERROR:
+1myLabel is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:6 ERROR:
+thisIsAveryVeryVeryVeryVeryLongLabel is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:7 ERROR:
+this is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:8 ERROR:
+thisLabelIsErroneous is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:9 ERROR:
+myLabel is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:12 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:13 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:14 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:15 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:16 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:17 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:18 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:19 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:20 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:21 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:22 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:23 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:27 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:28 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:31 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:32 ERROR:
+lost is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:33 ERROR:
+--433 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:34 ERROR:
+++875 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:35 ERROR:
+Line contains invalid input at the end: 5 , 16, 23, 42
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:36 ERROR:
+Line contains invalid input at the end: +2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:37 ERROR:
+x is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:38 ERROR:
+Number 2048 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:39 ERROR:
+Number -2049 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:40 ERROR:
+a is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:41 ERROR:
+6.5 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:45 ERROR:
+Argument: is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:46 ERROR:
+Argument:za wardo is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:47 ERROR:
+Argument:za wardo" is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:48 ERROR:
+Argument:"za wardo is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:49 ERROR:
+Argument:za "wardo". is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:50 ERROR:
+Argument:za ."wardo" is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:51 ERROR:
+Argument:", is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:53 ERROR:
+Line contains invalid input at the end: .data
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:54 ERROR:
+Line contains invalid input at the end: .string 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:55 ERROR:
+Line contains invalid input at the end: World
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:56 ERROR:
+Line contains invalid input at the end: Earth
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:57 ERROR:
+Line contains invalid input at the end: , r2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:58 ERROR:
+Line contains invalid input at the end: r2 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:59 ERROR:
+Line contains invalid input at the end: , r2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:60 ERROR:
+Line contains invalid input at the end: r2 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:61 ERROR:
+Line contains invalid input at the end: , r1
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:62 ERROR:
+Line contains invalid input at the end: r1 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:63 ERROR:
+Line contains invalid input at the end: , r5
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:64 ERROR:
+Line contains invalid input at the end: r5 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:65 ERROR:
+Line contains invalid input at the end: , r4
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:66 ERROR:
+Line contains invalid input at the end: r4 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:67 ERROR:
+Line contains invalid input at the end: , r6
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:68 ERROR:
+Line contains invalid input at the end: r6
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:69 ERROR:
+Line contains invalid input at the end: , r4 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:70 ERROR:
+Line contains invalid input at the end: r4
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:71 ERROR:
+Line contains invalid input at the end: , Monte, Cristo
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:72 ERROR:
+Line contains invalid input at the end: Monte Cristo
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:73 ERROR:
+Line contains invalid input at the end: , %FLOOR
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:74 ERROR:
+Line contains invalid input at the end: %FLOOR
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:75 ERROR:
+Line contains invalid input at the end: , Sponge
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:76 ERROR:
+Line contains invalid input at the end: Sponge
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:77 ERROR:
+Line contains invalid input at the end: , MAN
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:78 ERROR:
+Line contains invalid input at the end: MAN
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:79 ERROR:
+Line contains invalid input at the end: , r5
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:80 ERROR:
+Line contains invalid input at the end: r5
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:81 ERROR:
+Line contains invalid input at the end: , r2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:82 ERROR:
+Line contains invalid input at the end: r2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:83 ERROR:
+Missing a blank character after label:customLabel1
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:84 ERROR:
+Missing a blank character after label:customLabel2
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:85 ERROR:
+Missing a blank character after label:customLabel3
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:86 ERROR:
+Missing a blank character after label:customLabel4
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:87 ERROR:
+Missing a blank character after label:customLabel5
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:88 ERROR:
+Missing a blank character after label:customLabel6
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:89 ERROR:
+Missing a blank character after label:customLabel7
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:90 ERROR:
+Missing a blank character after label:customLabel8
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:91 ERROR:
+Missing a blank character after label:customLabel9
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:92 ERROR:
+Missing a blank character after label:customLabel10
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:93 ERROR:
+Missing a blank character after label:customLabel11
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:94 ERROR:
+Missing a blank character after label:customLabel12
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:95 ERROR:
+Missing a blank character after label:customLabel13
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:96 ERROR:
+Missing a blank character after label:customLabel14
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:97 ERROR:
+Missing a blank character after label:customLabel15
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:98 ERROR:
+Missing a blank character after label:customLabel16
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:99 ERROR:
+Missing a blank character after label:customLabel17
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:100 ERROR:
+Missing a blank character after label:customLabel18
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:101 ERROR:
+Missing a blank character after label:customLabel19
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:102 ERROR:
+Missing a blank character after label:customLabel20
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:103 ERROR:
+Missing a blank character after label:customLabel21
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:104 ERROR:
+Missing a blank character after label:customLabel22
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:105 ERROR:
+Missing a blank character after label:customLabel23
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:106 ERROR:
+Missing a blank character after label:customLabel24
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:107 ERROR:
+Missing a blank character after label:customLabel25
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:108 ERROR:
+Missing a blank character after label:customLabel26
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:109 ERROR:
+Missing a blank character after label:customLabel27
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:110 ERROR:
+Missing a blank character after label:customLabel28
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:111 ERROR:
+Missing a blank character after label:customLabel29
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:112 ERROR:
+Missing a blank character after label:customLabel30
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:114 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:115 ERROR:
+Argument: is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:116 ERROR:
+Missing a label as an argument after extern directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:117 ERROR:
+Missing an argument after entry directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:118 ERROR:
+Missing a second argument containing destination addressing for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:119 ERROR:
+Missing a second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:120 ERROR:
+Missing a second argument containing destination addressing for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:121 ERROR:
+Missing a second argument containing destination addressing for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:122 ERROR:
+Missing a second argument containing destination addressing for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:123 ERROR:
+Missing an argument containing destination addressing for command:clr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:124 ERROR:
+Missing an argument containing destination addressing for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:125 ERROR:
+Missing an argument containing destination addressing for command:dec
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:126 ERROR:
+Missing an argument containing destination addressing for command:jmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:127 ERROR:
+Missing an argument containing destination addressing for command:bne
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:128 ERROR:
+Missing an argument containing destination addressing for command:jsr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:129 ERROR:
+Missing an argument containing destination addressing for command:red
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:130 ERROR:
+Missing an argument containing destination addressing for command:prn
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:131 ERROR:
+Missing a blank character after label:someLabel31
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:132 ERROR:
+Missing a blank character after label:someLabel32
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:133 ERROR:
+Missing a blank character after label:someLabel33
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:134 ERROR:
+Missing a blank character after label:someLabel34
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:135 ERROR:
+Missing a blank character after label:someLabel35
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:136 ERROR:
+Missing a blank character after label:someLabel36
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:137 ERROR:
+Missing a blank character after label:someLabel37
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:138 ERROR:
+Missing a blank character after label:someLabel38
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:139 ERROR:
+Missing a blank character after label:someLabel39
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:140 ERROR:
+Missing a blank character after label:someLabel40
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:141 ERROR:
+Missing a blank character after label:someLabel41
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:142 ERROR:
+Missing a blank character after label:someLabel42
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:143 ERROR:
+Missing a blank character after label:someLabel43
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:144 ERROR:
+Missing a blank character after label:someLabel44
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:145 ERROR:
+Missing a blank character after label:someLabel45
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:146 ERROR:
+Missing a blank character after label:someLabel46
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:147 ERROR:
+Missing a blank character after label:someLabel47
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:149 ERROR:
+COOK is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:150 ERROR:
+Data is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:151 ERROR:
+sTring is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:153 ERROR:
+Argument uses an invalid destination addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:154 ERROR:
+Argument uses an invalid destination addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:155 ERROR:
+Argument uses an invalid source addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:156 ERROR:
+Argument uses an invalid source addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:157 ERROR:
+Argument uses an invalid destination addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:158 ERROR:
+Argument uses an invalid destination addressing type for command:mov
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:159 ERROR:
+Argument uses an invalid destination addressing type for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:160 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:161 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:162 ERROR:
+Argument uses an invalid source addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:163 ERROR:
+Argument uses an invalid source addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:164 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:165 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:166 ERROR:
+Argument uses an invalid destination addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:167 ERROR:
+Argument uses an invalid destination addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:168 ERROR:
+Argument uses an invalid source addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:169 ERROR:
+Argument uses an invalid source addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:170 ERROR:
+Argument uses an invalid destination addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:171 ERROR:
+Argument uses an invalid destination addressing type for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:172 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:173 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:174 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:175 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:176 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:177 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:178 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:179 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:180 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:181 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:182 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:183 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:184 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:185 ERROR:
+Argument uses an invalid destination addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:186 ERROR:
+Argument uses an invalid destination addressing type for command:clr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:187 ERROR:
+Argument uses an invalid destination addressing type for command:clr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:188 ERROR:
+Argument uses an invalid destination addressing type for command:not
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:189 ERROR:
+Argument uses an invalid destination addressing type for command:not
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:190 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:191 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:192 ERROR:
+Argument uses an invalid destination addressing type for command:dec
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:193 ERROR:
+Argument uses an invalid destination addressing type for command:dec
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:194 ERROR:
+Argument uses an invalid destination addressing type for command:jmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:195 ERROR:
+Argument uses an invalid destination addressing type for command:jmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:196 ERROR:
+Argument uses an invalid destination addressing type for command:bne
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:197 ERROR:
+Argument uses an invalid destination addressing type for command:bne
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:198 ERROR:
+Argument uses an invalid destination addressing type for command:jsr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:199 ERROR:
+Argument uses an invalid destination addressing type for command:jsr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:200 ERROR:
+Argument uses an invalid destination addressing type for command:red
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:201 ERROR:
+Argument uses an invalid destination addressing type for command:red
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:202 ERROR:
+Argument uses an invalid destination addressing type for command:prn
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:203 ERROR:
+Line contains invalid input at the end: #-1
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:204 ERROR:
+Line contains invalid input at the end: someLabel47
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:205 ERROR:
+Line contains invalid input at the end: %ohno
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:206 ERROR:
+Line contains invalid input at the end: r1
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:207 ERROR:
+Line contains invalid input at the end: #-1
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:208 ERROR:
+Line contains invalid input at the end: someLabel47
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:209 ERROR:
+Line contains invalid input at the end: %ohno
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as LINE:210 ERROR:
+Line contains invalid input at the end: r1
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/errors1.as contains 192 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as LINE:19 ERROR:
+Number 2048 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as LINE:25 ERROR:
+Number -2049 is too big to be represented as a signed integer in a 12 bit word
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as contains 2 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-immedsize.as LINE:19 ERROR:
+Number 2048 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-immedsize.as LINE:25 ERROR:
+Number -2049 is too big to be represented as a signed integer in a 12 bit word
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-immedsize.as contains 2 errors.
+
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:18 ERROR:
+Missing a second argument containing destination addressing for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:21 ERROR:
+Missing a second argument containing destination addressing for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:24 ERROR:
+Missing an argument containing destination addressing for command:red
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:30 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:36 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:39 ERROR:
+and is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:42 ERROR:
+jSr is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:45 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:48 ERROR:
+Line contains invalid input at the end: ,r3
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:51 ERROR:
+Line contains invalid input at the end: blabla
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:54 ERROR:
+Argument:48 uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:57 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:60 ERROR:
+r3 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:63 ERROR:
+Next is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:69 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:72 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:75 ERROR:
+Line contains invalid input at the end: Start
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:84 ERROR:
+Line contains invalid input at the end: 400
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:96 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:99 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:102 ERROR:
+#123 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:105 ERROR:
+12.4 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:108 ERROR:
+--5 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:111 ERROR:
+mov is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:114 ERROR:
+r6 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:117 ERROR:
+DATA1 is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:123 ERROR:
+1DATA is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:132 ERROR:
+Start is already defined in the file and can not be redefined as external
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:144 ERROR:
+DATA2 is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:147 ERROR:
+DATA is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:153 ERROR:
+Argument:blabla is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:156 ERROR:
+Line contains invalid input at the end: blabla 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:162 ERROR:
+SuperCalifragilisticExpiAlidocious is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:165 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:168 ERROR:
+Missing an argument after entry directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:171 ERROR:
+invalid is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:177 ERROR:
+Line contains invalid input at the end: Next
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as contains 37 errors.
+
+
+Assembler operation report:
+7 files passed as argument.
+1 files successfully converted.
+6 files contain errors.

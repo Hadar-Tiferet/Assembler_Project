@@ -1,0 +1,9 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/wrong_path.as Error:
+File was not found.
+Note: when passing files from another directory, please make sure to include the full path of the file
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.

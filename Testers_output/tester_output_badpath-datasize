@@ -1,0 +1,12 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as LINE:19 ERROR:
+Number 2048 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as LINE:25 ERROR:
+Number -2049 is too big to be represented as a signed integer in a 12 bit word
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize.as contains 2 errors.
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.

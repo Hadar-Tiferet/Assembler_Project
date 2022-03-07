@@ -1,0 +1,24 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:27 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:30 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:33 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:39 ERROR:
+%start is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:42 ERROR:
+Argument does not contain a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:45 ERROR:
+42 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:48 ERROR:
+5xy is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as LINE:51 ERROR:
+Line contains invalid input at the end: %start
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-relative.as contains 8 errors.
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.

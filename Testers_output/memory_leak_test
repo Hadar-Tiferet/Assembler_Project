@@ -1,0 +1,84 @@
+==4944== Memcheck, a memory error detector
+==4944== Copyright (C) 2002-2015, and GNU GPL'd, by Julian Seward et al.
+==4944== Using Valgrind-3.11.0 and LibVEX; rerun with -h for copyright info
+==4944== Command: ./assembler /home/user/Desktop/Mmn14/Testers_with_results/ps /home/user/Desktop/Mmn14/Testers_with_results/ps2 /home/user/Desktop/Mmn14/Testers_with_results/ps3 /home/user/Desktop/Mmn14/Testers_with_results/ps4 /home/user/Desktop/Mmn14/Testers_with_results/empty /home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass /home/user/Desktop/Mmn14/Testers_with_results/test1 /home/user/Desktop/Mmn14/Testers_with_results/input /home/user/Desktop/Mmn14/Testers_with_results/wrong_path /home/user/Desktop/Mmn14/Testers_with_results/badpath-datasize /home/user/Desktop/Mmn14/Testers_with_results/badpath-immedsize /home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1 /home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2 /home/user/Desktop/Mmn14/Testers_with_results/badpath-relative /home/user/Desktop/Mmn14/Testers_with_results/errors1 /home/user/Desktop/Mmn14/Testers_with_results/errors2 /home/user/Desktop/Mmn14/Testers_with_results/Maman14_test_file3 /home/user/Desktop/Mmn14/Testers_with_results/psa
+==4944== 
+--4944-- Valgrind options:
+--4944--    --leak-check=full
+--4944--    --show-leak-kinds=all
+--4944--    --track-origins=yes
+--4944--    --verbose
+--4944-- Contents of /proc/version:
+--4944--   Linux version 4.4.0-206-generic (buildd@lcy01-amd64-002) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.12) ) #238-Ubuntu SMP Tue Mar 16 07:51:47 UTC 2021
+--4944-- 
+--4944-- Arch and hwcaps: X86, LittleEndian, x86-mmxext-sse1-sse2-sse3
+--4944-- Page sizes: currently 4096, max supported 4096
+--4944-- Valgrind library directory: /usr/lib/valgrind
+--4944-- Reading syms from /lib/i386-linux-gnu/ld-2.23.so
+--4944--   Considering /lib/i386-linux-gnu/ld-2.23.so ..
+--4944--   .. CRC mismatch (computed 02ac44c8 wanted 64966f77)
+--4944--   Considering /usr/lib/debug/lib/i386-linux-gnu/ld-2.23.so ..
+--4944--   .. CRC is valid
+--4944-- Reading syms from /home/user/Desktop/Mmn14/Assembler/assembler
+--4944-- Reading syms from /usr/lib/valgrind/memcheck-x86-linux
+--4944--   Considering /usr/lib/valgrind/memcheck-x86-linux ..
+--4944--   .. CRC mismatch (computed 6036da3f wanted 652e483f)
+--4944--    object doesn't have a symbol table
+--4944--    object doesn't have a dynamic symbol table
+--4944-- Scheduler: using generic scheduler lock implementation.
+--4944-- Reading suppressions file: /usr/lib/valgrind/default.supp
+==4944== embedded gdbserver: reading from /tmp/vgdb-pipe-from-vgdb-to-4944-by-user-on-???
+==4944== embedded gdbserver: writing to   /tmp/vgdb-pipe-to-vgdb-from-4944-by-user-on-???
+==4944== embedded gdbserver: shared mem   /tmp/vgdb-pipe-shared-mem-vgdb-4944-by-user-on-???
+==4944== 
+==4944== TO CONTROL THIS PROCESS USING vgdb (which you probably
+==4944== don't want to do, unless you know exactly what you're doing,
+==4944== or are doing some strange experiment):
+==4944==   /usr/lib/valgrind/../../bin/vgdb --pid=4944 ...command...
+==4944== 
+==4944== TO DEBUG THIS PROCESS USING GDB: start GDB like this
+==4944==   /path/to/gdb ./assembler
+==4944== and then give GDB the following command
+==4944==   target remote | /usr/lib/valgrind/../../bin/vgdb --pid=4944
+==4944== --pid is optional if only one valgrind process is running
+==4944== 
+--4944-- REDIR: 0x4019030 (ld-linux.so.2:strlen) redirected to 0x380490f2 (???)
+--4944-- REDIR: 0x4018df0 (ld-linux.so.2:index) redirected to 0x380490cd (???)
+--4944-- Reading syms from /usr/lib/valgrind/vgpreload_core-x86-linux.so
+--4944--   Considering /usr/lib/valgrind/vgpreload_core-x86-linux.so ..
+--4944--   .. CRC mismatch (computed 5b95c0c4 wanted 39e79efa)
+--4944--    object doesn't have a symbol table
+--4944-- Reading syms from /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so
+--4944--   Considering /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so ..
+--4944--   .. CRC mismatch (computed 4d5a1526 wanted 33571d5b)
+--4944--    object doesn't have a symbol table
+==4944== WARNING: new redirection conflicts with existing -- ignoring it
+--4944--     old: 0x04019030 (strlen              ) R-> (0000.0) 0x380490f2 ???
+--4944--     new: 0x04019030 (strlen              ) R-> (2007.0) 0x0402f410 strlen
+--4944-- Reading syms from /lib/i386-linux-gnu/libc-2.23.so
+--4944--   Considering /lib/i386-linux-gnu/libc-2.23.so ..
+--4944--   .. CRC mismatch (computed 946db697 wanted c9226aeb)
+--4944--   Considering /usr/lib/debug/lib/i386-linux-gnu/libc-2.23.so ..
+--4944--   .. CRC is valid
+--4944-- REDIR: 0x40c7590 (libc.so.6:strncasecmp) redirected to 0x4026560 (_vgnU_ifunc_wrapper)
+--4944-- REDIR: 0x40ce220 (libc.so.6:memrchr) redirected to 0x4026560 (_vgnU_ifunc_wrapper)
+--4944-- REDIR: 0x40e0c00 (libc.so.6:wcslen) redirected to 0x4026560 (_vgnU_ifunc_wrapper)
+--4944-- REDIR: 0x40c58c0 (libc.so.6:__GI_strrchr) redirected to 0x402ee00 (__GI_strrchr)
+--4944-- REDIR: 0x40c5660 (libc.so.6:strlen) redirected to 0x4026560 (_vgnU_ifunc_wrapper)
+--4944-- REDIR: 0x40ce520 (libc.so.6:__strlen_sse2_bsf) redirected to 0x402f370 (strlen)
+--4944-- REDIR: 0x40c0fc0 (libc.so.6:malloc) redirected to 0x402c110 (malloc)
+--4944-- REDIR: 0x40c6430 (libc.so.6:strstr) redirected to 0x4033700 (strstr)
+--4944-- REDIR: 0x40c1530 (libc.so.6:free) redirected to 0x402d2f0 (free)
+--4944-- REDIR: 0x40c4fc0 (libc.so.6:strcmp) redirected to 0x4026560 (_vgnU_ifunc_wrapper)
+--4944-- REDIR: 0x4184260 (libc.so.6:__strcmp_ssse3) redirected to 0x4030450 (strcmp)
+--4944-- REDIR: 0x40c9360 (libc.so.6:strchrnul) redirected to 0x40330b0 (strchrnul)
+--4944-- REDIR: 0x40c71b0 (libc.so.6:__GI_mempcpy) redirected to 0x40332c0 (__GI_mempcpy)
+==4944== 
+==4944== HEAP SUMMARY:
+==4944==     in use at exit: 0 bytes in 0 blocks
+==4944==   total heap usage: 3,839 allocs, 3,839 frees, 384,067 bytes allocated
+==4944== 
+==4944== All heap blocks were freed -- no leaks are possible
+==4944== 
+==4944== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==4944== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

@@ -1,0 +1,26 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:30 ERROR:
+Symbol:Q can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:33 ERROR:
+Symbol:Q can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:36 ERROR:
+Symbol:X can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:39 ERROR:
+Symbol:Y can not be used as an argument without being defined
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:48 ERROR:
+Symbol:Q appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:51 ERROR:
+Symbol:X appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:54 ERROR:
+Symbol:Y appears only as an argument without being defined as a label in the file
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:57 ERROR:
+DATA1 is defined as both an entry and an extern label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as LINE:60 ERROR:
+Symbol:Z can not be used as a relative addressing argument while defined as data
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass2.as contains 9 errors.
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.

@@ -1,0 +1,110 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:7 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:10 ERROR:
+1label is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:12 ERROR:
+Missing a blank character after label:label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:14 ERROR:
+thislabelistoolongandshouldnotpass is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:16 ERROR:
+labe is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:18 ERROR:
+la@bel is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:20 ERROR:
+Start is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:22 ERROR:
+ is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:26 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:28 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:30 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:32 ERROR:
+Line contains invalid input at the end: 30
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:34 ERROR:
+string is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:36 ERROR:
+Line contains invalid input at the end: not EOF
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:38 ERROR:
+DATA is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:40 ERROR:
+Number -2899 is too big to be represented as a signed integer in a 12 bit word
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:42 ERROR:
+Data is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:44 ERROR:
+Missing a directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:46 ERROR:
+data is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:48 ERROR:
+word50 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:50 ERROR:
+50word is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:54 ERROR:
+Argument: is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:56 ERROR:
+Argument:"no closure is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:58 ERROR:
+Line contains invalid input at the end: extra content 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:60 ERROR:
+string"no is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:62 ERROR:
+Argument is not a valid string, contains a non printable character:	
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:64 ERROR:
+Argument:" is not a valid string, missing closing quotation marks
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:66 ERROR:
+Argument:no quotation marks is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:70 ERROR:
+thislabelistoolongandshouldnotpass is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:72 ERROR:
+externnospace is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:74 ERROR:
+notalabe!l is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:76 ERROR:
+label: is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:78 ERROR:
+Start is already defined in the file and can not be redefined as external
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:80 ERROR:
+Line contains invalid input at the end: content
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:82 ERROR:
+Missing a label as an argument after extern directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:86 ERROR:
+Dec is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:88 ERROR:
+DEC is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:90 ERROR:
+addto is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:92 ERROR:
+super is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:94 ERROR:
+stop is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:98 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:100 ERROR:
+5 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:102 ERROR:
+Line contains invalid input at the end: x
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:104 ERROR:
+Argument uses an invalid destination addressing type for command:jsr
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:106 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:108 ERROR:
+Line contains invalid input at the end: x
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:110 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:112 ERROR:
+-1nonum85 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:114 ERROR:
+Argument:-185 uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:116 ERROR:
+Missing a comma before second argument containing destination addressing for command:cmp
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as LINE:118 ERROR:
+Line was too long, a valid line can contain up to 80 characters
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/errors_first_pass.as contains 51 errors.
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.

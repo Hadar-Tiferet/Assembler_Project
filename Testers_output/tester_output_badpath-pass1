@@ -1,0 +1,82 @@
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:18 ERROR:
+Missing a second argument containing destination addressing for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:21 ERROR:
+Missing a second argument containing destination addressing for command:sub
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:24 ERROR:
+Missing an argument containing destination addressing for command:red
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:30 ERROR:
+Argument uses an invalid destination addressing type for command:add
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:36 ERROR:
+Argument uses an invalid destination addressing type for command:inc
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:39 ERROR:
+and is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:42 ERROR:
+jSr is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:45 ERROR:
+Argument: uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:48 ERROR:
+Line contains invalid input at the end: ,r3
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:51 ERROR:
+Line contains invalid input at the end: blabla
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:54 ERROR:
+Argument:48 uses an unsupported addressing mode
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:57 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:60 ERROR:
+r3 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:63 ERROR:
+Next is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:69 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:72 ERROR:
+Argument uses an invalid source addressing type for command:lea
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:75 ERROR:
+Line contains invalid input at the end: Start
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:84 ERROR:
+Line contains invalid input at the end: 400
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:96 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:99 ERROR:
+Expected an argument after a comma
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:102 ERROR:
+#123 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:105 ERROR:
+12.4 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:108 ERROR:
+--5 is not a valid integer
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:111 ERROR:
+mov is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:114 ERROR:
+r6 is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:117 ERROR:
+DATA1 is already defined as a label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:123 ERROR:
+1DATA is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:132 ERROR:
+Start is already defined in the file and can not be redefined as external
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:144 ERROR:
+DATA2 is not a valid command
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:147 ERROR:
+DATA is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:153 ERROR:
+Argument:blabla is not a valid string
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:156 ERROR:
+Line contains invalid input at the end: blabla 
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:162 ERROR:
+SuperCalifragilisticExpiAlidocious is not a valid label
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:165 ERROR:
+Missing an integer argument
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:168 ERROR:
+Missing an argument after entry directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:171 ERROR:
+invalid is not a valid directive
+FILE:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as LINE:177 ERROR:
+Line contains invalid input at the end: Next
+
+	File:/home/user/Desktop/Mmn14/Testers_with_results/badpath-pass1.as contains 37 errors.
+
+
+Assembler operation report:
+1 files passed as argument.
+0 files successfully converted.
+1 files contain errors.
